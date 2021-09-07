@@ -137,13 +137,7 @@ write the file. https://www.gnu.org/software/libc/manual/html_node/Permission-Bi
     dup2(outFileID, STDOUT_FILENO);
 
 
-## Submission Instructions
 
-Your source code should be a single c file named ‘hw2.c’. Submissions will be done through Gradescope.
-You have already been added on the Gradescope course for ICS53. Please login to with your school (UCI)
-email to access it. Please remember that each C program should compile and execute properly on
-openlab.ics.uci.edu when it is compiled using the gcc compiler version 4.8.5. The only compiler switch
-which will be used is -o (to change the name of the executable).
 
 ## Specific directions
 
