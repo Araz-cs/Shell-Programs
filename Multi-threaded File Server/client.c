@@ -1,5 +1,4 @@
 
-//Araz Sultanian, 88077118
 
 #include <stdlib.h>
 #include <string.h>
