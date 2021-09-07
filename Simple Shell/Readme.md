@@ -181,21 +181,21 @@ Now we have compiled executables, “add” and “counter”. ^Z in below == ct
 
 ## Example 2
 
-## Prepare two terminals on the same server.
+# Prepare two terminals on the same server.
 
 ## [Terminal1]
 
-## ssh <your_id>@openlab.ics.uci.edu
+# ssh <your_id>@openlab.ics.uci.edu
 
-## You will see your server name e.g. <your_id>@circinus- 14
+# You will see your server name e.g. <your_id>@circinus- 14
 
-## circinus-14 is your current server name in this case.
+# circinus-14 is your current server name in this case.
 
 ## [Terminal2]
 
-## ssh <your_id>@<server_name>.ics.uci.edu
+# ssh <your_id>@<server_name>.ics.uci.edu
 
-## e.g. ssh <your_id>@circinus-14.ics.uci.edu
+# e.g. ssh <your_id>@circinus-14.ics.uci.edu
 
 ## In this way you can access to the same server using two terminals.
 
